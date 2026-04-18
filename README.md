@@ -7,7 +7,6 @@ In the world of data engineering, the journey from data retrieval to insightful 
 Architecture
 <img width="758" height="314" alt="image" src="https://github.com/user-attachments/assets/74cffa4c-1eb5-4ee5-8140-1940f75089db" />
 
-Architecture
 
 Data Retrieval with Python and Cricbuzz API
 
